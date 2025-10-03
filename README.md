@@ -1,1 +1,1 @@
-updating jenkins auto trigger hook
+updating jenkins auto trigger hook for getting triggered result
